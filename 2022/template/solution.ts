@@ -7,7 +7,12 @@ const textByLine = text.toString().split('\n');
 
 console.log(textByLine)
 
-function solution(input: string[]) {
+function part1(input: string[]) {
 }
 
-console.log(solution(textByLine));
+console.log('Part 1 answer : ', part1(textByLine));
+
+function part2(input: string[]) {
+}
+
+console.log('Part 2 answer : ', part2(textByLine));
